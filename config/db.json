@@ -1,0 +1,43 @@
+{
+    "development": {
+        "username": "vwrrmwutsphhxl",
+        "password": "e14e615efc9f7abe8e69f955933d307d47c5f8f089364c847deb8eac2869fe69",
+        "database": "d725770r157c72",
+        "host": "ec2-54-204-44-140.compute-1.amazonaws.com",
+        "port": "5432",
+        "dialectOptions": {
+            "ssl": true
+        },
+        "ssl": true,
+        "dialect": "postgres",
+        "operatorAliases": false
+    },
+
+    "test": {
+        "username": "vwrrmwutsphhxl",
+        "password": "e14e615efc9f7abe8e69f955933d307d47c5f8f089364c847deb8eac2869fe69",
+        "database": "d725770r157c72",
+        "host": "ec2-54-204-44-140.compute-1.amazonaws.com",
+        "port": "5432",
+        "dialectOptions": {
+            "ssl": true
+        },
+        "ssl": true,
+        "dialect": "postgres",
+        "operatorAliases": false
+    },
+
+    "production": {
+        "username": "vwrrmwutsphhxl",
+        "password": "e14e615efc9f7abe8e69f955933d307d47c5f8f089364c847deb8eac2869fe69",
+        "database": "d725770r157c72",
+        "host": "ec2-54-204-44-140.compute-1.amazonaws.com",
+        "port": "5432",
+        "dialectOptions": {
+            "ssl": true
+        },
+        "ssl": true,
+        "dialect": "postgres",
+        "operatorAliases": false
+    }
+}
